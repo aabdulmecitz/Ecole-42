@@ -36,7 +36,7 @@ The **42 Common Core** is the main curriculum that focuses on advanced programmi
 | [Push Swap](https://github.com/aabdulmecitz/42-Push-Swap)              | Implemented sorting algorithms with minimal operations.                         |
 | [Philosophers](https://github.com/aabdulmecitz/42-Philosophers)        | Tackled multithreading and synchronization challenges.                          |
 | [Minishell](https://github.com/aliemirdinc/minishell)                 | Created a simple shell with basic command execution and piping.                 |
-| [Cub3D](https://github.com/aabdulmecitz/42-cub3D)                         | Designed a 3D game engine inspired by Wolfenstein 3D.                           |
+| [Cub3D](https://github.com/aabdulmecitz/42-cube3D)                         | Designed a 3D game engine inspired by Wolfenstein 3D.                           |
 
 *(Add more projects as needed.)*
 
@@ -52,7 +52,7 @@ Here is a curated list of my completed projects from the 42 Common Core:
 - **[Push Swap](https://github.com/aabdulmecitz/42-Push-Swap)**: An algorithmic sorting project.
 - **[Philosophers](https://github.com/aabdulmecitz/42-Philosophers)**: A multithreading and synchronization challenge.
 - **[Minishell](https://github.com/aliemirdinc/minishell)**: A simple shell implementation in C.
-- **[Cub3D](https://github.com/aabdulmecitz/42-cub3D)**: A 3D game engine inspired by Wolfenstein 3D.
+- **[Cub3D](https://github.com/aabdulmecitz/42-cube3D)**: A 3D game engine inspired by Wolfenstein 3D.
 
 *(Add more projects as needed.)*
 
