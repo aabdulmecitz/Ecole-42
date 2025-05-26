@@ -9,8 +9,6 @@
   [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
   <p align="center"><a href="https://https://42istanbul.com.tr/" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Istanbul&color=000&style=for-the-badge&logo=42""></a></p>
-
-  <p align="center">125/100 :white_check_mark:</p>
   
   *Welcome to my École 42 projects repository! This file serves as a comprehensive and aesthetic overview of all the projects I have completed during my journey at École 42, including the 42 Piscine and the 42 Common Core.*
 
