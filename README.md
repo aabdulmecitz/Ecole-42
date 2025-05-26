@@ -1,4 +1,26 @@
-# École 42 Projects
+
+<div align="center">
+
+  # École 42 Projects
+
+  <p align="center"><a href="https://github.com/aabdulmecitz/Ecole-42" target="_blank"><img align="center" alt="Ecole 42" src="https://user-images.githubusercontent.com/81205527/179134510-48689e9e-f8e4-4165-be40-2e0ec8f5d60d.png"> </a></p>
+
+  [![forthebadge](https://forthebadge.com/images/badges/made-with-c.svg)](https://forthebadge.com)
+  [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+
+  <a img src="https://img.shields.io/badge/circle-2-magenta?style=for-the-badge"/></a>
+  <a img src="https://img.shields.io/badge/42-Evaluation-red?style=for-the-badge"/></a>
+
+  <p align="center"><a href="https://https://42istanbul.com.tr/" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Istanbul&color=000&style=for-the-badge&logo=42""></a></p>
+
+  <p align="center">125/100 :white_check_mark:</p>
+
+  <img src="img/so_long_bonus.gif" width="700"/>
+  
+  *Animated Ghost Adventure with Dynamic Enemy AI*
+  
+  *Multiple Map Layouts and Challenges*
+</div>
 
 Welcome to my École 42 projects repository! This file serves as a comprehensive and aesthetic overview of all the projects I have completed during my journey at École 42, including the 42 Piscine and the 42 Common Core.
 
