@@ -5,7 +5,7 @@
 
   <p align="center"><a href="https://github.com/aabdulmecitz/Ecole-42" target="_blank"><img align="center" alt="Ecole 42" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDc1ZnRvdms1dGxuMnB4OG92OHFmNHUyOG54NHc5anY5OTYxaWV1YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vZu2VmycJ890tP5IdH/giphy.gif"> </a></p>
 
-  [![forthebadge](https://forthebadge.com/images/badges/made-with-c.svg)](https://forthebadge.com)
+  [![forthebadge](https://forthebadge.com/images/badges/made-with-c/c++.svg)](https://forthebadge.com)
   [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
   <a img src="https://img.shields.io/badge/circle-2-magenta?style=for-the-badge"/></a>
